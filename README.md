@@ -67,3 +67,5 @@ The pageviews data is that of the website http://statforecasting.com/ of almost 
 
 #### Result
 Decent forecast capturing trend and seasonality at all levels for the next one year
+
+![forecast](https://github.com/hubaditya/Webpage-Traffic-Time-Series/blob/main/forecast.png)
